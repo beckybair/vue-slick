@@ -1,4 +1,7 @@
 # vue-slick
+This is a Vue componant way of using slick.js slider.  Slick.js uses jQuery which is required for this.
+
+Live demo:  https://beckybair.github.io/vue-slick/
 
 ## Project setup
 ```
